@@ -1,0 +1,8 @@
+.btn-group{
+    margin-top:"auto";
+    display: grid;  
+    width: 1000px;  
+    height: 300px;  
+    align-content: center;
+    justify-content: center;  
+}

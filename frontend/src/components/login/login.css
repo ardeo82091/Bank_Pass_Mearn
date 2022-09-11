@@ -1,0 +1,28 @@
+.login{
+    background-color: #a2ab9a;
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    justify-items: center;
+    width: 40vw;
+    align-items: center;
+    align-self: center;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(84, 109, 95);
+}
+
+.loginform{
+    margin-top :100px;
+    margin-left :450px;
+}
+
+.btn btn-primary{
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    color: rgb(238, 238, 245);
+    text-align: right;
+    margin-bottom: 0.5rem;
+}
